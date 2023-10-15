@@ -1,6 +1,6 @@
 # DatabaseQueries
 
-"""# Query a database using a natural language query
+# Query a database using a natural language query
 
 Most of us have been querying the databases using a query language, mostly SQL. 
 

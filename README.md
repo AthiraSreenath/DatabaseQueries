@@ -21,11 +21,6 @@ mysql> use foodmart;
 mysql> source foodmart_mysql.sql;
 ```
 
-* Get the necessary libraries
-```
-pip install -r requirements.txt
-```
-
 
 ## Getting started
 

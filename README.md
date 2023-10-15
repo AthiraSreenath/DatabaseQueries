@@ -25,4 +25,3 @@ mysql> source foodmart_mysql.sql;
 ## Getting started
 
 We use the `sql-agent` from the `langchain`, and the `SqlDatabaseToolkit`.
-"""
